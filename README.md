@@ -1,9 +1,22 @@
 # 100hires-ai-tools-setup
-Portfolio project documenting the setup of Cursor, Claude Code, Codex, and GitHub.
-# 100hires AI Tools Setup
+
+Portfolio project documenting the setup of Cursor, Claude Code, Codex, and GitHub, plus ongoing research assignments.
 
 ## Portfolio Project
 This project documents the setup of Cursor, Claude Code, Codex, and GitHub.
+
+## Research: LinkedIn Organic Content Strategy for B2B SaaS
+
+Active research on how B2B SaaS companies and growth leaders use LinkedIn for organic reach, thought leadership, and pipeline influence.
+
+| Path | Purpose |
+|------|---------|
+| [`/research/linkedin-posts/`](research/linkedin-posts/) | Saved posts, screenshots, and notes from target creators |
+| [`/research/youtube-transcripts/`](research/youtube-transcripts/) | Transcripts and summaries from related talks and interviews |
+| [`/research/other/`](research/other/) | Newsletters, frameworks, PDFs, and supplementary material |
+| [`/research/sources.md`](research/sources.md) | Curated list of 10 B2B SaaS LinkedIn practitioners and reference links |
+
+Start with [`research/sources.md`](research/sources.md) for the expert list and collection workflow.
 
 ---
 

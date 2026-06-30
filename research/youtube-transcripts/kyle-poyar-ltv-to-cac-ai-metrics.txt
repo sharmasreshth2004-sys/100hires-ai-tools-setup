@@ -1,0 +1,1114 @@
+
+I've hated LTV to CAC for a while because it basically
+just sounds like fun with numbers.
+And I think with
+AI it's even less trustworthy.
+Maybe this is the final nail
+in the coffin.
+Someone had taken a picture at the OpenAI
+demo day or something.
+It showed the top companies
+based on token usage and went to the meme from the Big Short, like not admitting it
+there, bragging about it.
+What if you're just burning fuel
+on creating cat pictures, right?
+Hey, Ben's on the left, but.
+Gaudy on the screen.
+I lived in Naples, Florida.
+Right behind my house is where they hold
+the US championships for pickleball.
+The noise on that would be so annoying.
+I did not expect that private equity
+had gotten into this, too.
+The tipping has gotten out of control.
+We seen the meme
+when somebody gets heart surgery and then the doctor hands them
+like the iPad.
+It's like, pick your tip off.
+From most of the
+media. It's mostly growth.
+Go to market strategist Kyle Boyer
+and CFO C.J.
+Gustafson share.
+Smart takes on growing revenue
+and running a company.
+Pricing unit economics
+I leadership candid insights for CEOs, CFOs and Kroes or anyone else
+aspiring to climb to the C-suite.
+This is mostly growth.
+Hey, thanks for listening.
+We'll be right back
+after a word from our sponsors.
+Here's a growth tax nobody talks about.
+Every new monetization model you ship
+creates a nightmare for your finance team.
+AD usage based pricing.
+Now you're tracking consumption
+against commitments.
+Launch product bundles.
+That's multiple performance obligations
+per contract offer mid-cycle upgrades.
+Oh, good luck
+reallocating revenue manually.
+The irony is brutal.
+The pricing innovations that drive growth are the same ones
+that often break your finance process.
+But that's exactly where Right Rev shines.
+Right Rev is the revenue recognition
+engine built for companies that can't afford to let accounting
+slow down growth.
+Here's what most people miss
+and I've come to deeply appreciate.
+Revenue recognition
+isn't just a finance problem.
+It's a go to market enabler.
+When your rev rec is automated,
+your product team can ship new pricing without asking finance for permission,
+and your sales team can close creative deals
+without worrying about downstream chaos.
+To get up on my CFO soapbox for a section,
+I love talking about creative pricing models, hybrid pricing
+credits, tiered usage.
+It's where real growth happens.
+But I've seen too many companies where the sales team is celebrating
+a huge quarter, while finance is still trying to figure out
+how to recognize half of it.
+And crying in the corner, right Rev lets you experiment with crazy
+without wrecking your closed process.
+And honestly, in a world
+where your pricing model might change three times next year,
+that flexibility is everything.
+If you want to scale your monetization without breaking your books,
+visit write Rev.com.
+That's right
+Rev.com where modern monetization means bullet bulletproof accounting.
+Here's the question.
+When was the last time
+you really had time to focus on growth and not chasing contract renewals?
+Tracking. Shadowing.
+Spender explaining
+rising software cost to the board.
+Yikes.
+The truth is,
+traditional spend management is broken.
+If you're still piecing together data
+from five different systems just to figure out
+what you're actually spending while vendors keep on pushing those auto
+renewals and price hikes.
+My friend, I got a solution for you.
+That's where Tropic comes in.
+Tropic is an intelligent spend management solution that consolidate
+your spend data and processes, which is one unified offering
+enabling insights and decisive action.
+It doesn't just show you where
+the problems are, it helps you solve them through spotting hidden optimization
+opportunities like duplicative spend, automating those painful procurement
+workflows to giving you the best market data that turns every vendor
+negotiation in your favor.
+Tropic combines smart insights, real human expertise
+to keep you ahead of the curve.
+Now, I can say firsthand
+because I've used them for over two years.
+Their SaaS platform
+helps in with price checks.
+It helps me keep my calendar organized when renewals are coming up
+and I can actually visualize it.
+And let me say, it saves me more than
+ten hours a week on vendor management.
+And we've saved a ton on renewals.
+I'm walking into the boardroom
+with a lot more confidence.
+Isn't
+it time to turn your spend management into your competitive advantage?
+Visit Tropic app for iOS.
+Mostly metrics.
+That's traffic app.io/mostly metrics.
+If you run go
+to market, you already know the problem.
+You go to market. Data is everywhere.
+Ads, CRM, ads, sales
+calls, marketing spreadsheets.
+But you're still guessing what to do next.
+Hockey stack is the AI platform for modern
+go to market teams that collects all your customer data and unifies it
+into a single system of action.
+Then you deploy AI agents
+that prospect the right accounts, help reps close and upsell deals
+improve forecast accuracy, and automate what's already working across
+sales and marketing.
+Instead of running five year old processes
+manually, you go to market.
+Team finally has agents
+that understand your ICP, your funnel, and your buying motion,
+and they execute on it.
+That's why teams like RingCentral,
+outreach, Active Campaign, and even fortune 100 companies rely
+on hockey stack to cut through the noise, eliminate wasted spend, and make better
+go to market decisions faster.
+That's hockey stack the AI platform that helps go to market
+teams, makes space to think and win.
+Welcome
+back to another episode of Mostly Growth, the most serious podcast
+for anyone who cares about startup growth.
+We're back from the break, guys.
+How is your Christmas and New Year's?
+I'm dying inside, man.
+I'm so un slept right now. UN slept?
+You mean you actually were taking care
+of a newborn baby?
+It's more I wake up every time
+my wife goes to take care of the baby.
+So, you know.
+She's got to be quieter.
+She's gotta be quiet.
+No, it's like I have three kids,
+and it's like.
+I think they take turns on whose turn it
+is to wake up in the middle of the night.
+I'm on duty for the other two
+who should be sleeping.
+Not the baby, but all good men.
+I'm glad to be back.
+Back in the back, in the seat.
+Glad to hear it.
+Yeah, we definitely want to cover
+some potentially reliable things.
+You read it 2 a.m.
+and I know
+you've had a lot of reading at 2 a.m..
+Do I am.
+I am, I'm up reading baby.
+I made it to the end of the internet.
+Well, now you'll just get to the AI slop.
+That's like the AI generated stuff about
+all the things you read the first time.
+Well, on my end, I drove out to Cleveland, where my family's from,
+got a massive family.
+My grandma on my dad's side had ten kids
+and 25 grandkids and a lot of them still live out in, rural Cleveland area,
+like an hour outside of Cleveland.
+And it was really funny to ask them about, and, like, tell them about what I'm doing.
+I got to hear this. What? So. Whoa.
+What's the dispatch from,
+the Midwest family on on AI.
+What are they using for my mom?
+I asked her if she uses AI,
+and she was like, chai chee chee.
+That's what she thought ChatGPT was.
+Chai chee chee.
+Melissa's chai chee chee.
+It's Ben's new drink.
+Although, I have to say, like,
+it just goes to show how bad of a name ChatGPT actually is for like, such
+a popular product, such terrible name.
+So my mom has, like, no idea what this is.
+My dad's on ChatGPT all the time in voice
+mode, like asking it everything.
+It is basically his best friend and
+I think he believes everything on ChatGPT is 100% accurate, so kind of goes on
+the other end of the spectrum.
+My sister exclusively uses it on voice
+mode, but she does it in public settings.
+I'm like, Christina, that's not acceptable
+just to be talking to the thing she's like,
+but I got the answer of, like, where are you should park or we should go to dinner.
+I'm like, still.
+Some of my younger cousins.
+I've got some Gen Z cousins, you know,
+they rock the whole baggy jeans and all that.
+But, for some of them, AI is like, cool.
+Like one is a real estate agent, but
+he has a ChatGPT like, plus subscription.
+He's like using it all the time.
+He knows everything about Sam Altman.
+He was like, oh yeah, I might cancel
+my ChatGPT because Gemini is better.
+Now with Gemini three, I'm using than open and I'm like,
+what are you even using all of this for?
+You're a real estate agent.
+But like, there's definitely some street cred
+with the younger crowd to work in tech.
+Now, do you think they're much
+more willing to try new things because their generation, who grew up
+with tons of apps on their phone.
+TikTok in high school,
+Snapchat in middle school, like it's just part of life for them.
+You know, I think they're just also really comfortable
+creating content like remixing videos.
+I've never
+I actually don't have TikTok on my phone.
+I've never made a TikTok video.
+But like, these are people
+that are just like in meme culture.
+They know the latest
+of everything happening.
+And like all of that kind of creator stuff
+is almost natural, even if they don't do it for a career.
+Putting yourself out there to the generation
+like after us is just so natural to them.
+And I don't know if people are friendlier,
+but I'm like looking back at some of this stuff.
+I can't imagine not getting bullied
+for these, like TikTok, things that they put out.
+So all the credit to them,
+maybe it's a kinder culture now.
+In my day, we had dial up internet
+for a while, and then I didn't really get a smartphone
+until I just graduated from college.
+Like my first job, I got a smartphone.
+Younger generations have had it
+since they were like 13 years old.
+Scary times.
+What do we have up first, Ben?
+First up, we've got some potentially
+reliable things that some of our sleeper guys smart, some of our sleeper
+hosts are reading at 2 a.m..
+Well, Kyle, I told you
+I've been to the ends of the internet and part of this was studying up
+on some stock trends.
+You know, I'm not a stock picker,
+but every once in a while, I'll get in there
+and I'll check the performance.
+What do you think is the best performing
+stock of the 20 tens?
+I would have to say Apple.
+I mean like iPhone and AirPods
+as recurring revenue.
+Now iPad, all the things.
+I thought it was either Apple or Google.
+I'm like, no, no way. It's
+not one of these two companies.
+It is Domino's Pizza, Domino's Pizza.
+Yeah.
+So you can see Amazon, Apple, Facebook.
+Domino has been
+not only a steady Eddy, they've been they've been in hypergrowth mode
+when it comes to their share price.
+And so if you remember, they did.
+This whole campaign is probably
+in the 2013, 2014 timeframe, Kyle.
+And it was one of the most genius
+marketing campaigns ever.
+They basically just said, hey, we know we
+suck and we know we can do better here.
+All the things were rolling out
+like they completely owned it.
+They basically said,
+yes sir, pizza is cardboard.
+We're going to make it better.
+And then they came out with this repeatable playbook
+for all their franchisee owners.
+And it did wonders.
+And they paired that
+with going hard into mobile and making a mobile app
+so they knew who the people were.
+We've joked on the podcast before,
+like Outbound Pizza producer Steve joked that he got a notification
+from the Domino's app saying, hey, we have this deal for you.
+So Domino's is like the most tech forward
+leaning of the, fast casual restaurants,
+and it shows up in their stock price.
+That is impressive.
+I wonder what they're trading at as like, you know, revenue multiple
+or like EBITDA multiple.
+Are we looking at our first, edition
+of the podcast of an x axis crime?
+No, I'm good dude, I'm good.
+2010 2012, 2014.
+So this start with with Christ back
+here is what I'm saying.
+Starts at the Mesopotamian times.
+According to our friends
+over at multiples BC, they're trading that almost for X revenue
+or X revenue.
+That's better than a lot of tech companies
+right now.
+Actually,
+the median is 4.5 for tech companies.
+Holy shit.
+They're trading at 17 x EBITDA.
+That is amazing for a services business.
+Waiting for Domino's.
+So on my end
+I was reading about pickleball, which all of my family in Ohio is obsessed
+with.
+It's also like there's so many indoor pickleball places
+that you can play out in Ohio.
+So like it's just such an easy thing
+to do in the winter.
+And I didn't know until now.
+It's like one of the best private equity
+roleplays out there.
+You guys seen this?
+I lived in Naples, Florida
+for the last three years, and right behind
+my house is where they hold the US championships for pickleball,
+and there's over 100 courts.
+And so I would go over there sometimes, you know, try to get a sweat, break
+some ankles with the older folk.
+The noise on that would be so annoying.
+I did not expect that private equity
+had gotten into this.
+Two there's one dude,
+an American billionaire, who saw the growth of pickleball
+and just kind of raced to own everything he could, and so he bought
+Pickleball Central, which is like the e-commerce place to buy paddles
+and everything.
+He bought pickleball tournaments,
+which apparently organizes, like every pickleball tournament
+out there.
+Anything that happens in pickleball
+he's going to make money on.
+Well, my mind went to first is, what's
+the way that this makes money in a row?
+Because it could be more
+of a real estate play, right?
+Like you own where the courts are
+in the land that it's on.
+It could be a membership play
+where you're making money off of people joining a club
+and the community aspect of it, and it could also be a media rights play
+if he thinks it's going to be on TV.
+So I work at Providence Equity Partners.
+Before I went to the operator side, and one of the companies
+we owned was the tennis Channel, and that was one of the best investments
+they made.
+So it's like, are they going
+to do something or on the meteorites here.
+You have to imagine
+the media rights are going to be big, but part of their assets are like one of
+the top media properties for pickleball.
+But then like
+their hands are in everything, right?
+So they make money.
+If more consumers are playing,
+they make money off more consumers are interested
+in watching pro pickleball.
+Pro baseball can be streamed,
+or can be sold for for broadcast TV.
+Any way.
+Pickleball grows,
+they're going to take a cut of it.
+Yeah, this is pretty genius.
+And the total addressable market for
+it is huge right.
+It's a it's a low contact sport.
+You don't have to break your ankles
+doing it.
+I know people probably do
+somehow still get hurt playing pickleball.
+But basically anybody can go out and play.
+And it doesn't cost a lot to do it either.
+Great business model.
+Apparently the global pickleball market
+was worth 2.2 billion in 2024, and it's projected
+to reach over 9 billion by 2034.
+So definitely a fast growing sport.
+And if you can own
+all of the key assets on a sport that's growing that fast,
+that is some pretty good growth potential.
+All right. Up.
+First, we have got the next generation
+of metrics for AI companies.
+What are we looking at.
+What are we keeping track of.
+You guys help me out here.
+It's a
+you're a metrics I'm a metrics nerd.
+We've talked a lot about r r
+and how that was the lifeblood of SAS, but is somewhat meaningless
+or like increasingly meaningless.
+And and I world Tom tune guys recently
+wrote a post saying that he thinks one of the top emerging metrics for AI companies
+is going to be gross profit per token.
+Did you see this?
+I did, yeah, this is a cool one to say.
+And by the way, I was getting ready
+to reach into this drawer right here to pull out my 75 page
+handwritten notebook on air.
+I thought we were going to
+go into that again, but I'll put it away.
+You got to close that drawer,
+take out all your tokens instead.
+So give give people the 32nd
+overview of what he was saying about about this gross profit metric.
+The general idea is that, a unifying
+view of AI companies is around
+token consumption, right.
+That's a metric that shows are people
+actually using your AI product so separate from revenue?
+It's more around value for the customer.
+And at overall consumption,
+token consumption could just be passing
+through your underlying infrastructure costs with very little,
+you know, additional value.
+So you could just be passing
+through OpenAI or anthropic tokens at a slight markup,
+or you could be delivering real value above and beyond
+looking at those monthly tokens.
+What's the gross margin on those tokens?
+That token consumption
+and the gross margin per million or per billion tokens
+actually correlates pretty closely with the multiples that some of these
+by companies are trading for.
+But why don't we care about monthly active
+users mouths or daily active users DAOs, or the ratio of daily to monthly anymore
+is is this like just a derivative of that?
+So how in now
+I think they're still have somewhat of a role to play, but that to me is more, metric that was tied to seats.
+If you licensed Salesforce
+for a 100 person sales org, you'd want to see how many of those sales
+reps are logging in on a given day and given month,
+and they're not logging in.
+They might not renew those seats. Right?
+Or if all of them are logging
+in, maybe going to expand their seats with AI, you have, you know, much more
+of a power law of consumption.
+And so one person could log in for one query, another person could log in
+with like hundreds of queries and like advanced AI agent use cases
+that consume like a ton of tokens.
+And so not all Dao are created equal.
+And that's
+not a really good proxy of value.
+And also like looking forward,
+if AI is taking on like digital labor, that would maybe otherwise
+be done by people, you might not need people
+logging in every day for AI to be working.
+It could be increasingly working
+autonomously behind the scenes.
+We'd gone over this on a previous podcast,
+but someone had taken a picture at the OpenAI,
+whatever, demo day or something, and it showed the top 25 or top
+50 companies based on token usage.
+And what my mind went to is like,
+why would they admit this?
+Why would any company like want
+to be outed that they'd spent this much?
+And then I went to the
+the meme from The Big Short.
+Like, they're not admitting it,
+they're bragging about it.
+So companies are proud that they were spending
+that much or consume that many tokens.
+The gross profit piece,
+I think, is so key here, because if you just do tokens,
+you're kind of saying, look how much fuel we use, look
+how crappy our mile per gallon ratio is.
+And I'm driving this big truck
+that's just consuming all of this.
+You have to have some other
+offsetting metric to show what you're getting out of it,
+because you don't want to just be passing this through
+and have crappy fuel.
+Mileage tokens are basically fuel
+consumption, right?
+You want to look at how many miles
+you drove for that fuel consumption.
+And that's a much better metric
+of of actual progress.
+And one of the things I liked about this analysis, I think, you know, gross
+profit per token, it's a little wonky.
+It's a little hard
+to compare across companies.
+But one of the things I thought
+was an interesting angle of this piece is this idea of historically,
+sales reps have been compensated on how much recurring revenue they bring in,
+like what's the IRR of a deal?
+And that makes sense
+if you're, you know, an 80% plus gross margin business, just comp
+the rep on R.
+Well, now, if some customers could be wildly
+unprofitable, others could be high margin.
+You're looking at reps, maybe
+having some flexibility on discounting on flexible monetization models
+like selling one customer, a usage based model, another one
+a flat fee model.
+You might be compensating reps
+for really unprofitable deals.
+If you just use historical
+like ways of measuring rep performance.
+But there's gross profit dollars
+kind of calculus changes things.
+You could say, hey, the rep quota is based
+on gross profit dollars sold as opposed to just RR, which is going to be a much,
+you know, from a CFO perspective, much better representation
+of kind of the value of the business and, what
+their contribution to the business is.
+A lot of this reminds me of how snowflake
+has historically set up their comp plans with the reps,
+where it's based on how much consumption can you drive within different workflows
+throughout the company.
+And that's why they're famous
+for not having customer success, because you have to intimately know
+your customer in order to get them to actually use
+and consume what you sell them.
+It's not just they
+sign them up for this big contract, then they never use it, right?
+That's not success.
+You have to find ways for them
+to lean into it and consume over time.
+I don't know
+if snowflake looks at the gross profit associated with it,
+or I know is a company.
+They've made a remarkable rise.
+It's often
+compared to the infrastructure companies that are I today of going from sub
+60% gross profit margin.
+When the IPO ratio was 58 or 59%, Kyle.
+And now they're over 70%, which is
+remarkable for the type of work they do.
+So we've got token consumption.
+We've got gross profit per token
+and just gross profit in general as these, you know, next generation metrics that are
+more important for AI native companies.
+What are some of the other new metrics
+that you think are going to emerge?
+I mean, you're talking about outcome
+driven metrics a lot before.
+And I think this is important because what if you're just burning fuel
+on creating cat pictures, right.
+That's not going to be a durable customer.
+Hey, Ben's on the lead.
+I got a real cat.
+I don't mean fake pictures.
+I got put gaudy on the screen.
+How do you make sure that the customers
+are actually getting value out of what they're doing right?
+They're not just burning down the house
+and spending all this money, and then they're going to churn out
+the top.
+I also worry about what you see
+in the cloud era with optimization.
+It's the O word
+that all the CFOs are afraid of.
+When you hear that customers are looking to optimize their cloud spend
+or optimize their infrastructure spend.
+So the gross profit is
+is definitely a component to it.
+You don't want to do the DoorDash
+or the Uber thing, right?
+Remember when all the capital
+was in the system and Uber was basically selling a $25 taxi ride for $18?
+DoorDash would deliver something
+to your house for a 20% loss.
+I loved the days of the VC subsidies.
+I could take an Uber pool
+for like $0 was great.
+I think there's something here
+about outcomes, but you're the expert on how to set that up.
+When AI is being used,
+it can be used, kind of in copilot or assistive mode, right
+where it's summarizing something for you.
+It's giving you ideas or recommendations, or it could work more autonomously
+and own the work product.
+I think outcomes are a lot easier
+to measure when I own something and connect autonomously
+than when it's just a copilot, but I also think the overall value
+proposition to customers is way higher
+if you can get to outcomes.
+So I think that's an area
+where we need to go, and that's going to be what unlocks
+the ability to sell in to headcount budgets, for example,
+as opposed to just technology budgets.
+I don't think we're fully there yet as an industry outside
+of maybe specific vertical AI companies.
+So on most metrics, I always say that the goal of SAS metrics
+historically is revenue per employee.
+Kyle, do you think we'll ever measure the revenue per agent,
+either as the company selling agents to another company, similar to how
+you could say a rep brings in X amount and quota or or is able to drive
+this much revenue for us from a profit angle
+or from a productivity angle within the company
+saying that we've deployed these agents, this is how much revenue
+we're able to drive per agent.
+If you listen to like a Jason Lumpkin,
+who was recently on Lenny's podcast, he might say, hey, yeah, we're
+going to replace the sales team with ten AI agents and look at the performance
+of those AI agents.
+I don't know if I like personally care
+a whole lot of like revenue per AI agent.
+But I do care about like productivity
+per dollar spent, which is maybe a different way
+of looking at it.
+So what's the error
+per dollar spent on head cow and AI agents or just general
+go to market technology?
+And in theory, as we invest more in AI,
+we should be able to drive that productivity number up.
+But I'm less concerned
+if that number is going up because people are more efficient
+at what they do, or we're bringing in AI agents
+who are effective.
+I just can't be any more productive
+and having more centrally work output.
+Well, that's what I was going to say.
+Eventually.
+It does show up in your revenue
+per employee, right?
+Because they're more productive.
+You could increase this, you know,
+productivity per dollar spent metric by either like an error per
+employee metric going up.
+Certainly helps.
+That's kind of the,
+you know, ultimate North Star.
+You're also factoring
+in how much you're spending on AI.
+So if these AI tools
+start to become really expensive but aren't driving a whole lot of results,
+you could have great error per employee, but not have that efficient of a
+of AI adoption internally.
+So on the sales side, I know
+we've beaten a dead horse with error.
+We won't take that out of the drawer
+right now.
+But is LTV to TAC harder to measure now?
+Like is that different?
+Is it the same?
+I've hated LTV technique for a while because it basically
+just sounds like fun with numbers.
+I just don't trust it ever.
+Maybe for like a consumer goods product
+that, you know, we've got millions of purchases
+like you can model it.
+But historically in SAS, if you if your net retention is above 100%,
+the LTV is potentially limitless.
+You also don't have a ton of data on your customers
+to know what the real lifetime value is.
+I just don't trust it.
+And I think with
+AI it's even less trustworthy.
+If you were to ask an AI company what's
+a lifetime value of your customer like?
+I don't think that they could tell you
+what that number is even like anywhere close to what that number might look like,
+because no one really knows.
+Well, there's the old adage, I pray
+for the confidence of a seed founder with six months of selling history,
+but now LTV to cap of nine.
+I wish I had that confidence too.
+I just think that's a metric
+that I've always wanted to go away, and I think maybe this is the final nail
+in the coffin.
+We talked a little bit
+about outcome delivery.
+I do think one thing that's important
+is like measuring AI quality.
+And so I I've talked
+to a number of companies that don't have a really good way of measuring like
+the overall effectiveness of their AI.
+So like they've launched AI, they maybe have different models
+under the hood to take different actions.
+They use certain benchmarks
+to see if the AI is performing better, but those benchmarks in testing
+don't necessarily line up with like,
+the real world experience of users.
+And so we've talked about like fixer,
+for example, in the email space, fixer might have benchmarks
+that say their AI quality improved, but if you're using it, you might say,
+hey, this model changed.
+I'm actually going to not trust the email
+that they auto drafted, or I'm going to make more changes.
+And so there's there's a disconnect often between like the testing in the real world
+reality.
+It's also hard to tell
+if as AI models are getting better.
+Is that translating into downstream
+benefits like more usage or expansion, better retention and so on.
+And so some sort of like AI quality metric
+that's objective and correlates with business KPIs, I think will be the new version
+of what we had called product activation.
+Before for replacing
+selling software with selling labor.
+But it's not actually a human right.
+You're going to have to measure
+the quality of the outcomes at the departmental level
+and the task level.
+So when people talk really high
+level about how do you measure quality, it's what you would measure the output of a salesperson
+the same way you measure finance person.
+So it's going to have to be extremely
+domain specific.
+I don't know how to get to a quality
+metric even for humans in a company that that's the same across
+all departments.
+Yeah, it needs to be department specific,
+and we essentially need to have performance reviews of our
+AI products.
+And your customers are going to be having
+essentially the performance reviews.
+I think a lot of customers
+are going to make them more qualitative, like based on vibes.
+But as a vendor, like you need something
+that's a leading indicator of that before your customer tells you.
+That gives you confidence
+your AI is actually improving.
+That's such a sage insight right there.
+You should come up with the quality metric
+before your users do, right?
+You want to give them the whatever
+the ruler is that you want them to measure the outcomes based on, because if they make it up, you're
+going to be caught on your back foot, but you may not be able to defend it
+anyways.
+So it's
+kind of like you want to lead the witness.
+So this is how you should measure
+the success of our product.
+Exactly.
+And that if that starts with measuring,
+you know how your product works for your customers.
+You could then also translate that to hey, this is the North Star KPI
+for the product team going forward.
+This is also something we're going to push out to essentially
+write the RFP for our customers.
+We're going to pitch the sales team on why we're better at this metric
+than everyone else.
+Like this can really be something
+that the team rallies around.
+And I know we talked to Desert Intercom.
+They use this metric around
+automated AI resolutions or like what percentage of your customer
+support cases kind of get automated.
+Think their number went from
+in the 20% range to 70% or so now.
+And so that's a great example of this.
+But I haven't seen that kind of example
+applied beyond customer support.
+Have you ever had to build an ROI
+calculator before?
+Oh yes, oh yes.
+Talk about complete bullshit.
+You're asking a pricing person.
+Yeah, but like these things are so laden
+with assumptions, they're like black boxes.
+I would say a lot of companies,
+but I've built multiple ones before, and it's basically just like this cool
+Excel model that you give to the engineering team to,
+to put it on the website so customers can ostensibly measure the ROI on
+whatever your product is delivering.
+I say their best,
+but like we need them more than ever now.
+Well, we need them more than ever, but we also need customers
+to take them seriously.
+And yeah, be confident
+that we're getting it.
+Right, that that was the thing.
+No one took them seriously.
+We'd build them and it ended up being this
+big book report.
+Everyone was like, that's cool.
+Yeah.
+Everyone's like, oh, so my ERP is going
+to save me $10 million over three years.
+Yeah, Forrester would have these like it's a 1,700% return on investment.
+You're like,
+I don't even know how to do that map.
+We talked about,
+like the metrics change for AI companies.
+But another thing I wanted to talk to you
+about is how the orgs need to change.
+And we talked a little bit about that
+with like productivity and AI agents.
+But how do you see orgs changing with AI?
+So have you heard of this term forward
+deployed engineer.
+FTE, yet another TLA?
+You know, I have heard about it
+because, Palantir has been bragging about it for a while, but it seems like
+it's the hottest kind of new old thing.
+So Palantir was bragging about it
+for a while, completely went over my head.
+I'm like, this is just one of those weird, complicated things they're using to traded
+80 times forward revenue.
+But all the AI companies have adopted this
+term.
+Kyle, can I give you, like,
+my layman's term finance brain?
+Explanation of what the hell this is?
+You can.
+So if you think about a systems engineer
+involved in a typical sales process, they help come up with
+the technical requirements that a customer needs to say yes,
+this is what good looks like.
+The idea here is that AI is so flexible
+in the use cases, are either so specific to that customer, or you don't even know
+how you're going to solve it yet, but you think you have like these modules
+that you can put stuff on top of.
+You basically put engineers
+at the cost of your own company into the sales process
+and into these companies to help build something custom on top of whatever
+you have.
+It's kind of like a supercharged SE,
+but it's a extremely technical resource, and they're going in and building
+hand to hand with these companies.
+So if you think about like integrations
+you would do historically for like an ERP, you may hire, like CrossCountry or you may hire Deloitte or McKinsey
+to help you implement it.
+Like Accenture, they make the most money
+ever off of these implementations.
+You're basically doing the implementations
+before you even have a signed contract.
+You're doing it
+to get them to buy from you.
+And I think it's fundamentally going
+to change how you look at how you cost out the PNL of the resources used in sales,
+and also how you look at what's a successful sales process.
+So do you see this as a sales
+and marketing cost then, because it's deployed
+before someone's a paying customer?
+So glad you brought this up, because the people who are the forward
+deployed engineers, they're R&D people.
+But we're doing this
+before we have a signed contract, and they're doing the work
+to get the customer to say, yes, this is an amazing product,
+and I want to keep it.
+And I see some merit in it,
+because at that point you've put so much effort into it.
+They've already given you access
+to their systems.
+You've built something for them.
+The retention and the success rate on
+and needs is going to be high.
+Yeah, like to me
+it's a sales head now I'm almost like, do you even need a salesperson anymore
+to ask for their business if this works?
+Yeah.
+Should the FTE just be the sales
+rep themselves and own a quota?
+I think to me, the the big distinction
+that I'm still trying to figure out with these roles is are they
+just a salesperson who is technical and can essentially help prototype
+a solution or kind of build of the one with the customer,
+or is this really an engineering role?
+They're working with customers
+who maybe are the first pilot customer in an industry, but whatever
+they build with that customer, they're going to productize and they can
+sell that to like 100 other customers.
+And so in that case,
+it's like an innovation and like kind of classic R&D role.
+And Harry
+Stebbing said the CEO of invisible Dot I, I'm, I'm interviewing their head
+of finance later this week.
+And the topic of forward
+deployed engineers came up.
+And it's kind of crazy to think that these
+AI companies have these five aircraft carriers of products
+that they can land anything on, and what they're going to do
+is they're going to listen to what you need
+and then go and build it for you.
+And before I
+it would be incredibly foolish to think that you're going to custom build software
+for every company.
+I don't know if it's doable.
+I don't know if these companies
+are on like the suicide mission, agreeing to custom build something for everybody
+that's not scalable.
+But if it's possible,
+it does change the pre-sales process.
+And also what what people are buying.
+These are these are the same skew books
+that me and you are used to.
+I mean, we've all used tools
+like lovable cursor Replit like we've seen this experience
+of like typing into a prompt bar what we want to go build and seeing
+a prototype like almost instantaneously.
+Now there's still work to be done
+to get that prototype into production, but you could almost think
+for some of these companies, like the FTE doesn't necessarily need to be building
+something that is the final production use case for the customer,
+but they should be customizing the demo and the experience
+so that it looks and feels hyper relevant to what the customer is trying to do.
+Who's the note taking out
+that we talked about on the show?
+Kyle,
+who they said they're behind the scenes.
+They're actually just
+typing out the notes. At first I yeah.
+That was Firefly's.
+That's
+I think what a lot of companies are doing where they're taking all the information from emails
+and from original like gong calls and feeding into a lovable or cursor
+and coming back to me like, look, we're 80% of the way there.
+We heard what he said and we built it.
+Just pay us for this thing now
+and then we'll actually build it.
+I thought it was a funny Reddit thread
+here, and it said for deployed engineers, just a fancy new name for a high paid
+consultant who can code change my mind.
+If that consultant is bringing
+in business, it's worth it.
+But I think that's
+the big question is like, how do you compensate these roles
+and how much of it is more classic
+like salary, like an engineer?
+Plus,
+you know, maybe some stock based comp and then how much of it is performance
+based tied to like, you know, some sort of like win rate around
+when they're brought in?
+If it's not a one for one swap
+where salespeople are coming out and these really expensive
+engineers are going in, your customer acquisition costs and your payback period
+could be really high.
+Kyle.
+PhD's are obviously top of mind
+with AI companies.
+Are there other roles that you think
+are going to be like the next FTE?
+You start, you seem to have one in mind.
+I mean, I'm still learning these roles
+that we've talked before about go to market engineers to
+that is a role that's been popularized by the clay team
+that essentially can automate a lot of go to market
+plays around sales and marketing.
+I do think there's a lot of interest
+in that role.
+I haven't seen the a number of like jobs and hires take off,
+but there's a lot of interest.
+And I think some of the companies that have brought in that kind of role
+are certainly seeing value from it.
+So that could be another
+one of these FTE concepts.
+But time's, time's gonna tell.
+Next up, we've got one of my favorite
+segments, pricing in the Real World.
+Surprised they're all my favorite segment.
+I have a couple this this week.
+So one of them,
+I told you I was driving from Boston to Cleveland and back from Cleveland
+to Boston to see my family got stuck in a snowstorm
+and upstate New York on the way back, and needed to spend the night
+in, the Finger Lakes region.
+One thing is I was looking at pet fees.
+I had my dog with me.
+You would not believe
+some of the pet fees at these hotels.
+This one that I looked at.
+I almost booked it.
+And then I realized they wanted to charge
+$100 per stay and $75 per day for a pet.
+So $175, it's actually
+going to be more expensive for the pet to stay at the hotel room
+than for me to stay at it.
+What did they expect
+your dog to do to the room?
+Your guess is as good as mine,
+I swear he's well trained.
+He's a small Boston terrier,
+but these pet fees are getting out of hand and they're like the least
+transparent things ever.
+This is a website.
+It's like. Bring Fido or something.
+Yeah. That one.
+I want to buy this website and monetize
+the Legion.
+I think this genius.
+So that was one for me.
+Another one dog related.
+I noticed something when booking my dog
+for a daycare recently.
+There was a tipping option
+for doggy daycare.
+Is that like a thing?
+Am I supposed to tip for doggy daycare?
+It technically is a service
+based business.
+But you don't tip for your kid's daycare.
+Do? Hell no.
+But they ask for donations all the time.
+I don't know what they're going to.
+The tipping has gotten out of control.
+We seen the meme
+when somebody gets heart surgery, and then the doctor hands them
+like the iPad.
+It's like, pick your tip off.
+It's going to ask you
+a quick couple questions here.
+Yeah, the dentist to everyone.
+Everyone wants a tip these days.
+I'm already paid 50 bucks a day
+for daycare.
+Apps on that one.
+It's also hard to like tip
+before you get the service.
+That's the worst.
+That's like,
+it's just hard for me to know.
+It's like, well, are you going to do a bad
+job if I don't tip?
+All right.
+I had one final one
+that's also inspired by this writer.
+I was really thinking a lot about pricing,
+on this on this trip.
+The final one was thinking about Toll
+Road, so I was on 90 the whole time.
+You hit a lot of tolls
+driving from Ohio to Boston on I-90.
+I was realizing that basically toll
+roads are like through the roof right now.
+And part of the reason why is as people
+drive more and more electric vehicles and as like gas taxes have kind of stopped
+being as big of a revenue generator.
+Our infrastructure needs to be paid
+somehow, and folks are kind of looking at toll roads as the answer for how to
+how to pay for our aging infrastructure.
+That's why I take the chopper everywhere
+I go.
+It's just, usage
+based pricing, right, Kyle?
+You know,
+it is based off the usage based pricing.
+I actually think we need congestion
+fees in cities.
+Kind of like what New York did.
+I love to see that in Boston.
+Personally, for a while,
+the toll roads came with the cost of like having to have manual people
+on the toll collection.
+But now that can all be automated.
+Like I think they should just go in
+a lot more places.
+That's
+what Adam Sandler's job was in Big Daddy.
+He worked the toll booth.
+All right, see,
+do I have another business idea for you?
+It's to own a toll road
+so that you can make all of the profit.
+Isn't it funny, though, that whenever
+you're called a toll in the context of business, it's extremely negative,
+like with APIs?
+Oh, that's just the toll we have to pay.
+Not many better businesses out there
+than the toll operator.
+Ben, what's this propaganda
+you want to tell us about?
+Oh, what do you guys think about paying?
+Depending on how heavy your vehicle is
+and like, how many miles you drive?
+Because like C.J and his g-wagon
+and driving around, it's a heavy car.
+I drive a Ford Raptor. Ben. I'm not.
+The podcast isn't that successful.
+Yet, but.
+Hey, man, you drive your raptor around.
+It's heavier than my my Subaru Impreza.
+That's just,
+you know, daintily touching the road.
+And then you're out of here.
+Monster truck and over me.
+I think whatever makes you pay the most
+in tax, I'm in favor for.
+Mostly growth is a mostly media production
+executive produced by Ben Hillman.
+That's me.
+Nothing said on this podcast is intended
+to be business or investment advice.
+It's the sole opinion of CJ, Kyle and Ben.
+Just some guys who love talking
+growth mostly.
+If you like this podcast, hit subscribe, give us five stars or hit
+like the Algorithm overlords.
+Thank you.
+Drink water,
+call your mom and have a great day!
