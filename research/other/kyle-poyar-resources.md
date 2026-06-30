@@ -12,3 +12,4 @@
 ## LinkedIn profile
 
 - https://www.linkedin.com/in/kyle-poyar/ (verified via episode show notes, not scraped from LinkedIn)
+- Public post verified via podcast show notes: https://www.linkedin.com/posts/kyle-poyar_today-im-roasting-your-pricing-model-flat-fee-activity-7341873621071523841-ey8F

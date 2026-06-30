@@ -4,7 +4,12 @@
 
 ## Collection status: MANUAL REQUIRED
 
-Profile verified. Search surfaced activity ID 7471297705701453824 (YouTube origin story post) but full post text was not fetched.
+Profile verified. Search surfaced activity ID 7471297705701453824 (YouTube origin story post), but the public fetch failed with a cache miss and full post text was not accessible without logged-in LinkedIn review.
+
+## Public verification sources added
+
+- Dan Martell homepage: https://www.danmartell.com/ - public primary site for his SaaS coaching, books, newsletter, podcast, and YouTube channels.
+- YouTube channel: https://www.youtube.com/@DanMartell - public video source for founder/SaaS coaching content that can be mapped to LinkedIn repurposing themes.
 
 ### Collect manually (3–5 posts on):
 

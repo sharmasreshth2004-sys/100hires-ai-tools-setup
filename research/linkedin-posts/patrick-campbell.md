@@ -29,3 +29,8 @@ Patrick Campbell has shifted focus post-Paddle exit. Recent posts may be limited
 | 5 | _pending_ | _pending_ | ProfitWell legacy posts | Manual |
 
 **Reference (content strategy):** SaaS Club interview notes Patrick used blog → Twitter/LinkedIn atomization for lead gen.
+
+## Public verification sources added
+
+- SaaS Club episode 134 transcript: https://saasclub.io/podcast/saas-pricing-patrick-campbell-price-intelligently/ - verifies Patrick's pricing framework, bootstrapped Price Intelligently history, ProfitWell launch context, and the role of deep inbound content in early revenue.
+- Public LinkedIn post above remains usable as a data-report distribution example, but additional post URLs were not found in public search during this pass.

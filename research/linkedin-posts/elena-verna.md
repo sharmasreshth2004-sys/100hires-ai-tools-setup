@@ -68,14 +68,14 @@
 
 ---
 
-## Post 5: Product-Market Fit Treadmill (newsletter cross-post)
+## Supplementary verified source: Product-Market Fit Treadmill newsletter
 
 | Field | Value |
 |-------|-------|
-| **Date** | _Verify on profile_ |
+| **Date** | 2025-11-18 (newsletter page) |
 | **URL** | https://www.elenaverna.com/p/the-product-market-fit-treadmill |
-| **LinkedIn reference** | Cited in Lenny's Podcast show notes |
+| **LinkedIn reference** | No public LinkedIn post URL found during this pass |
 
 **Why valuable:** Essay on PMF as recurring challenge in AI—feeds LinkedIn-native "contrarian framework" posts Elena republishes to drive newsletter subs.
 
-**Note:** Primary source is newsletter; confirm matching LinkedIn post on profile during manual review.
+**Verified note:** Primary source is the newsletter, not a collected LinkedIn post. Use it as supporting context unless a matching LinkedIn post is manually collected from her profile activity.

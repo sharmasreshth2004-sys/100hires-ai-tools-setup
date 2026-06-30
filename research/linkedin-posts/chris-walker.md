@@ -32,7 +32,14 @@
 
 ---
 
-## Post 3–5: MANUAL COLLECTION NEEDED
+## Public verification sources added
+
+- Dreamdata interview recap (2024): https://dreamdata.io/blog/chris-walker-b2b-marketing-2024 - verifies Chris's 2024 themes around signal-based marketing, peer/community influence, AI, CAC/ROI pressure, and organic content as higher-ROI GTM activity.
+- Omniscient Digital podcast page (2024-12-04): https://beomniscient.com/blog/chris-walker-passetto/ - verifies Passetto role, B2B Revenue Vitals host role, and themes around demand creation, attribution, and customer-centric GTM.
+
+---
+
+## Post 3-5: MANUAL COLLECTION NEEDED
 
 Recent posts (2025–2026) on dark social, paid budget allocation, and LinkedIn organic distribution were not retrievable via public search indexes.
 

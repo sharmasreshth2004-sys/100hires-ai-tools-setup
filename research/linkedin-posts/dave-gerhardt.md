@@ -17,7 +17,12 @@
 
 ---
 
-## Post 2–5: Additional collection
+## Public verification sources added
+
+- GTMnow podcast/interview (2023-08-17): https://gtmnow.com/gtm-55-b2b-messaging-mastery-dave-gerhardt/ - verifies Dave's Exit Five role and covers messaging, founder brand, niche focus, community, and podcast measurement themes.
+- Exit Five homepage: https://www.exitfive.com/ - public primary source for the B2B marketing community attached to Dave's LinkedIn content flywheel.
+
+## Post 2-5: Additional collection
 
 | # | Date | URL | Topic | Status |
 |---|------|-----|-------|--------|
